@@ -1,3 +1,5 @@
 --------------------
 Implement Feature 1
 --------------------
+Implement Feature 2 (đại diện 1 tính năng mới - tính năng thứ 2)
+--------------------
